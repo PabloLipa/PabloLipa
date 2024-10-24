@@ -2,9 +2,16 @@
 # Pablo Henrique Rodrigues Dos Santos Lipa
 # (Pablo Lipa)
 
-Sou mestrando no Programa de Pós-Graduação em Computação (PPGC) da Universidade Federal do Rio Grande do Sul (UFRGS), focado na área de pesquisa em Inteligência Artificial. Sou formado em Jogos Digitais pelo Instituto Federal de Ciência, Tecnologia e Educação de Mato Grosso do Sul (IFMS).
+Sou mestrando no Programa de Pós-Graduação em Computação (PPGC) da Universidade Federal do Rio Grande do Sul (UFRGS), focado na área de pesquisa em Inteligência Artificial. 
+Sou formado em Jogos Digitais pelo Instituto Federal de Ciência, Tecnologia e Educação de Mato Grosso do Sul (IFMS).
 
-Tenho um perfil bastante multidisciplinar. Além de minha formação em jogos, meus estudos em IA me permitiram desenvolver uma ampla gama de conhecimentos e habilidades para atender aos requisitos dos meus projetos. Sou apaixonado por programação ❤️ e possuo habilidades em C#, Java ☕, C++ e Python, que utilizo como ferramentas para resolver problemas.
+Tenho um perfil bastante multidisciplinar. Além de minha formação em jogos, meus estudos em IA me permitiram desenvolver uma ampla gama de conhecimentos e habilidades para atender aos requisitos dos meus projetos.
+Sou apaixonado por programação ❤️ e possuo habilidades em C#, Java ☕, C++ e Python, que utilizo como ferramentas para resolver problemas. Um pouco abaixo tem algumas ferramentas  listadas que tenho conhecimentos.
+trablho e estudo isso desde de 2015. E daquele tempo em diante venho sempre tentando me aprimorar e gerar valor nos meus trabalhos!
+
+Gosto de trabalhar com sistemas, jogos e inteligencia artificial. Misturando os três, então! Nossa! O projeto dos sonhos! Pois, cada uma das areas tem a suas vantagens que auxiliam na vidas das pessoas. E minha
+missão como mero programador que esta de passagem nesta vida é auxiliar e proporcionar o maxímo de ajuda o possivel para as pessoas. Pois, é ,as pessoas, a principal causa que me motiva a estudar e a estar neste
+caminho que estou trilhando.
 
 
 
