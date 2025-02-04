@@ -17,7 +17,10 @@ Segue alguns links sobre apresentações, colaborações e alguns trabalhos:
 
 Apresentações:
 https://youtu.be/1TQ46BlLalM
+
 https://youtu.be/UfSeTNnA0rA
+
+
 https://drive.google.com/ le/d/1QY2s3uPex Z96YCXYNmwZAJKmgtckhcz/view 
 https://1drv.ms/p/s!Ag-uOm97iQ6Ag9peHQEwIkU5AJquow? e=gwo87i 
 
