@@ -13,6 +13,19 @@ Gosto de trabalhar com sistemas, jogos e inteligencia artificial. Misturando os 
 missão como mero programador que esta de passagem nesta vida é auxiliar e proporcionar o maxímo de ajuda o possivel para as pessoas. Pois, é ,as pessoas, a principal causa que me motiva a estudar e a estar neste
 caminho que estou trilhando.
 
+Segue alguns links sobre apresentações, colaborações e alguns trabalhos:
+
+Apresentações:
+https://youtu.be/1TQ46BlLalM
+https://youtu.be/UfSeTNnA0rA
+https://drive.google.com/ le/d/1QY2s3uPex Z96YCXYNmwZAJKmgtckhcz/view 
+https://1drv.ms/p/s!Ag-uOm97iQ6Ag9peHQEwIkU5AJquow? e=gwo87i 
+
+
+Artigo: https://drive.google.com/file/d/1g68LqlD3cvJ9ZUv6o_77jgQQSjvKYF9B/view
+https://github.com/guipyson/CMP263_UFRGS
+
+ Agradeço pela consideração e espero ter a oportunidade de conseguir trabalhar no setor da T.I.
 
 
 ## 🌐 Socials:
